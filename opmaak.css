@@ -12,6 +12,12 @@ body {
     margin-left: 20px;
   }
 
+  p {
+    padding: 10%;
+    display: block;
+    color: rgba(119, 0, 255, 0.734)
+  }
+
 
 /*menu bar*/
 ul { /*de achtergrond/bar van van het menu*/
