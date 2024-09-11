@@ -13,14 +13,11 @@ body {
   }
 
   p {
-    padding: 10%;
-    display: block;
+    background-color: white;
     color: rgba(119, 0, 255, 0.734)
   }
 
-  p a {
-color: white
-  }
+
 
 
 /*menu bar*/
