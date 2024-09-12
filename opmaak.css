@@ -18,6 +18,12 @@ body {
     color: white
   }
 
+  .tekst {
+    background-color: #2b2bc5;
+    padding: 1%;
+    color: white
+  }
+
 
 /*menu bar*/
 ul { /*de achtergrond/bar van van het menu*/
