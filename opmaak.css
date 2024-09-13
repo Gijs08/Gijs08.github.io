@@ -12,6 +12,11 @@ body {
     margin-left: 20px;
   }
 
+  h3 { /*kleur voor h3*/
+    color: navy;
+    margin-left: 20px;
+  }
+
   p {
     background-color: #2b2bc5;
     padding: 1%;
