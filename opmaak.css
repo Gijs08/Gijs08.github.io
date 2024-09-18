@@ -29,7 +29,9 @@ body {
     color: white
   }
 
-  #paragraaf {
+  .paragraaf {
+    display: block;
+    padding: 15px 32px;
     background-color: #2b2bc5;
     color: white;
     margin-bottom: 0px;
