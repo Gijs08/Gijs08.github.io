@@ -7,6 +7,12 @@ body {
     margin-left: 20px;
   }
 
+  .headje {
+    background-image: url(voeten.jpeg);
+    background-image: no-repeat;
+    background-size: cover;
+  }
+
   h2 { /*kleur voor h2*/
     color: navy;
     margin-left: 20px;
