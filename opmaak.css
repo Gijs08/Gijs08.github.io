@@ -12,6 +12,7 @@ body {
     background-image: no-repeat;
     background-size: contain;
     background-size: 10%;
+    width: 10px;
   }
 
   h2 { /*kleur voor h2*/
