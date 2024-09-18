@@ -29,6 +29,11 @@ body {
     color: white
   }
 
+  .paragraaf {
+    background-color: #2b2bc5;
+    color: white;
+  }
+
   .bbutton {
     background-color: darkblue;
     border: none;
