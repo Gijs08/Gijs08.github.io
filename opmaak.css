@@ -10,7 +10,7 @@ body {
   .headje {
     background-image: url(voeten.jpeg);
     background-image: no-repeat;
-    background-size: cover;
+    background-size: contain;
   }
 
   h2 { /*kleur voor h2*/
