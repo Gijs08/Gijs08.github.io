@@ -10,7 +10,6 @@ body {
   .headje {
     background-image: url(blauw-gradient.png);
     background-image: no-repeat;
-    background-size: cover;
   }
 
   h2 { /*kleur voor h2*/
