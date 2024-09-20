@@ -11,7 +11,7 @@ body {
     background-image: url(blauw-gradient.png);
     background-image: no-repeat;
     background-size: contain;
-    position: left;
+    margin-left: 0px;
   }
 
   h2 { /*kleur voor h2*/
