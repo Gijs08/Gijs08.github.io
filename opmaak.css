@@ -22,7 +22,7 @@ body {
   color: white;
 }
 
-.naarhome:visited {
+#naarhome:visited {
   background-color: darkblue;
   text-align: center;
   padding: 10px;
@@ -32,7 +32,7 @@ body {
   text-decoration: none;
 }
 
-.naarhome {
+#naarhome {
   background-color: darkblue;
   text-align: center;
   padding: 10px;
@@ -42,7 +42,7 @@ body {
   text-decoration: none;
 }
 
-.naarhome:hover {
+#naarhome:hover {
   background-color: rgb(0, 0, 84);
   text-align: center;
   padding: 10px;
@@ -52,7 +52,7 @@ body {
   text-decoration: none;
 }
 
-.naarhome:active {
+#naarhome:active {
   background-color: darkblue;
   text-align: center;
   padding: 10px;
