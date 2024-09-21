@@ -22,7 +22,34 @@ body {
   color: white;
 }
 
+.naarhome:visited {
+  background-color: darkblue;
+  text-align: center;
+  padding: 10px;
+  margin-bottom: 0px;
+  color: white;
+  cursor: pointer;
+}
+
 .naarhome {
+  background-color: darkblue;
+  text-align: center;
+  padding: 10px;
+  margin-bottom: 0px;
+  color: white;
+  cursor: pointer;
+}
+
+.naarhome:hover {
+  background-color: rgb(0, 0, 84);
+  text-align: center;
+  padding: 10px;
+  margin-ottom: 0px;
+  color: white;
+  cursor: pointer;
+}
+
+.naarhome:active {
   background-color: darkblue;
   text-align: center;
   padding: 10px;
