@@ -80,9 +80,8 @@ ul { /*de achtergrond/bar van van het menu*/
   background-color: darkblue;
 }
 
-#id4503cd869e715 { /*zodat het weer ook meebeweegt*/
-  position: sticky;
-  top: 0;
+#id4503cd869e715 { /*zodat het weer achter het menu staat*/
+  z-index: -1;
 }
 
 li {
