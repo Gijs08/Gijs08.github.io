@@ -23,41 +23,41 @@ body {
 }
 
 #naarhome:visited {
+  color: white;
   background-color: darkblue;
   text-align: center;
   padding: 10px;
   margin-bottom: 0px;
-  color: white;
   cursor: pointer;
   text-decoration: none;
 }
 
 #naarhome {
+  color: white;
   background-color: darkblue;
   text-align: center;
   padding: 10px;
   margin-bottom: 0px;
-  color: white;
   cursor: pointer;
   text-decoration: none;
 }
 
 #naarhome:hover {
+  color: white;
   background-color: rgb(0, 0, 84);
   text-align: center;
   padding: 10px;
   margin-bottom: 0px;
-  color: white;
   cursor: pointer;
   text-decoration: none;
 }
 
 #naarhome:active {
+  color: white;
   background-color: darkblue;
   text-align: center;
   padding: 10px;
   margin-bottom: 0px;
-  color: white;
   cursor: pointer;
   text-decoration: none;
 }
