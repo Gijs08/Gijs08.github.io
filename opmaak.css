@@ -14,7 +14,6 @@ body { /*achtergrond kleur voor mijn website*/
     margin-left: 0px;
   }
 
-<<<<<<< HEAD
   .footer { /*footer opmaak voor onderaan mijn pagina*/
   background-color: darkblue;
   text-align: center;
@@ -24,7 +23,6 @@ body { /*achtergrond kleur voor mijn website*/
 }
 
 
-=======
   .footer {
   background-color: darkblue;
   text-align: center;
@@ -34,7 +32,6 @@ body { /*achtergrond kleur voor mijn website*/
 }
 
 
->>>>>>> d1e292899c54527c3ef30eb016b84663e01b9527
   h2 { /*kleur voor h2*/
     color: navy;
     margin-left: 20px;
@@ -83,13 +80,8 @@ body { /*achtergrond kleur voor mijn website*/
 
 /*menu bar*/
 ul { /*de achtergrond/bar van van het menu*/
-<<<<<<< HEAD
   position: sticky; /*zorgt dat het menu mee gaat als je scrolt*/
   top: 0;
-=======
-  position: sticky;
-  top: 0;
->>>>>>> d1e292899c54527c3ef30eb016b84663e01b9527
   list-style-type: none;
   margin: 0;
   padding: 0;
