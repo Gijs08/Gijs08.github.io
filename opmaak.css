@@ -29,6 +29,7 @@ body {
   margin-bottom: 0px;
   color: white;
   cursor: pointer;
+  text-decoration: none;
 }
 
 .naarhome:link {
