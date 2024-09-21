@@ -31,13 +31,14 @@ body {
   cursor: pointer;
 }
 
-.naarhome {
+.naarhome:link {
   background-color: darkblue;
   text-align: center;
   padding: 10px;
   margin-bottom: 0px;
   color: white;
   cursor: pointer;
+  text-decoration: none;
 }
 
 .naarhome:hover {
@@ -47,6 +48,7 @@ body {
   margin-bottom: 0px;
   color: white;
   cursor: pointer;
+  text-decoration: none;
 }
 
 .naarhome:active {
@@ -56,6 +58,7 @@ body {
   margin-bottom: 0px;
   color: white;
   cursor: pointer;
+  text-decoration: none;
 }
 
 
