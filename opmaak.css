@@ -1,4 +1,4 @@
-body {
+body { /*achtergrond kleur voor mijn website*/
     background-color: lightblue;
   }
   
@@ -7,13 +7,24 @@ body {
     margin-left: 20px;
   }
 
-  .headje {
+  .headje { /*header plaatje bij index*/
     background-image: url(blauw-gradient.png);
     background-image: no-repeat;
     background-size: contain;
     margin-left: 0px;
   }
 
+<<<<<<< HEAD
+  .footer { /*footer opmaak voor onderaan mijn pagina*/
+  background-color: darkblue;
+  text-align: center;
+  padding: 10px;
+  margin-bottom: 0px;
+  color: white;
+}
+
+
+=======
   .footer {
   background-color: darkblue;
   text-align: center;
@@ -23,6 +34,7 @@ body {
 }
 
 
+>>>>>>> d1e292899c54527c3ef30eb016b84663e01b9527
   h2 { /*kleur voor h2*/
     color: navy;
     margin-left: 20px;
@@ -39,20 +51,20 @@ body {
     color: white
   }
 
-  p {
+  p { /*kleur voor p*/
     background-color: #2b2bc5;
     padding: 1%;
     color: white
   }
 
-  .paragraaf {
+  .paragraaf { /*opmaak voor bijna alle p tags in mijn website*/
     display: block;
     background-color: #2b2bc5;
     color: white;
     margin: 0px;
   }
 
-  .bbutton {
+  .bbutton { /*opmaak voor de binary bonanza knop in binaire*/
     background-color: darkblue;
     border: none;
     color: white;
@@ -71,8 +83,13 @@ body {
 
 /*menu bar*/
 ul { /*de achtergrond/bar van van het menu*/
+<<<<<<< HEAD
+  position: sticky; /*zorgt dat het menu mee gaat als je scrolt*/
+  top: 0;
+=======
   position: sticky;
   top: 0;
+>>>>>>> d1e292899c54527c3ef30eb016b84663e01b9527
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -103,6 +120,8 @@ li a:hover {
 
 /*dropdown menu*/
 .dropdown {
+  position: sticky; /*zorgt dat het menu mee gaat als je scrolt*/
+  top: 0;
   float: left;
   overflow: hidden;
 }
@@ -122,7 +141,7 @@ li a:hover {
   background-color: rgb(0, 0, 40);
 }
 
-.dropdown-content { /*kleur van de inhoud van de dropdown*/
+.dropdown-content { /*opmaak van de inhoud van de dropdown*/
   display: none;
   position: absolute;
   background-color: rgb(0, 0, 111);
@@ -131,7 +150,7 @@ li a:hover {
   z-index: 1;
 }
 
-.dropdown-content a { /*kleur voor de tekst van de dropdown*/
+.dropdown-content a { /*opmaak voor de tekst van de inhoud dropdown*/
   float: none;
   color: lightblue;
   padding: 12px 16px;
@@ -144,6 +163,6 @@ li a:hover {
   background-color: rgb(0, 0, 40);
 }
 
-.dropdown:hover .dropdown-content { /*wat voor display de dropdown heeft*/
+.dropdown:hover .dropdown-content { /*wat voor soort display de dropdown heeft*/
   display: block;
 }
