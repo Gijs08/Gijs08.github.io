@@ -54,6 +54,11 @@ body { /*achtergrond kleur voor mijn website*/
     margin: 0px;
   }
 
+  .bonanzapng { /*nog niet af*/
+    margin-top: 30px;
+  }
+
+
   .bbutton { /*opmaak voor de binary bonanza knop in binaire*/
     background-color: darkblue;
     border: 10px;
@@ -68,6 +73,9 @@ body { /*achtergrond kleur voor mijn website*/
     margin: 20px 480px;
     cursor: pointer;
   }
+
+.bonanzapng
+
 
   .bbutton:hover {
     background-color: rgb(0, 0, 40); /*code voor de achtergrondkleur van als je over de tekst heen hovert*/
