@@ -56,14 +56,16 @@ body { /*achtergrond kleur voor mijn website*/
 
   .bbutton { /*opmaak voor de binary bonanza knop in binaire*/
     background-color: darkblue;
-    border: none;
+    border: 10px;
+    border-style: double;
+    border-color: navy;
     color: white;
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
-    margin: 4px 2px;
+    margin: 6px 3px;
     cursor: pointer;
   }
 
