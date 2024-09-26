@@ -24,8 +24,8 @@ body { /*achtergrond kleur voor mijn website*/
 
 .bonanzabox {
   margin-top: 20px;
-  background-color: lightgrey;
-  border: 15px solid green;
+  background-color: rgb(35, 123, 174);
+  border: 15px solid darkblue;
 }
 
 
