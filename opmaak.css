@@ -18,11 +18,17 @@ body { /*achtergrond kleur voor mijn website*/
   background-color: darkblue;
   text-align: center;
   padding: 10px;
-  
   margin-bottom: 0px;
   color: white;
 }
 
+.bonanzabox {
+  background-color: lightgrey;
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
 
 
   h2 { /*kleur voor h2*/
