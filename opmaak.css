@@ -39,7 +39,6 @@ body { /*achtergrond kleur voor mijn website*/
   display: block;
   margin-left: auto;
   margin-right: auto;
-  align-items: center;
 }
 
 #binairevid2 {
@@ -48,7 +47,7 @@ body { /*achtergrond kleur voor mijn website*/
   display: block;
   margin-left: auto;
   margin-right: auto;
-  align-items: center;
+
 }
 
   h2 { /*kleur voor h2*/
