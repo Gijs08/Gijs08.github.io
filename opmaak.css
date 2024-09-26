@@ -54,7 +54,7 @@ body { /*achtergrond kleur voor mijn website*/
     margin: 0px;
   }
 
-  #bonanzapng { /*nog niet af*/
+  .bonanzapng { /*nog niet af*/
   float: center;
   width: 486px;
   height: 160px;
