@@ -37,6 +37,10 @@ video {
   border: 10px solid darkblue;
 }
 
+iframe {
+  border: 10px solid darkblue;
+}
+
   h2 { /*kleur voor h2*/
     color: navy;
     margin-left: 20px;
