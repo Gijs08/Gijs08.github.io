@@ -28,6 +28,11 @@ body { /*achtergrond kleur voor mijn website*/
   border: 15px solid darkblue;
 }
 
+#bontext {
+  text-align: center;
+  color: white;
+}
+
 
   h2 { /*kleur voor h2*/
     color: navy;
