@@ -47,14 +47,14 @@ body { /*achtergrond kleur voor mijn website*/
     color: white
   }
 
-  .paragraaf { /*opmaak voor bijna alle p tags in mijn website*/
+  .paragraaf { /*opmaak voor bijna alle paragraaf tags in mijn website*/
     display: block;
     background-color: #2b2bc5;
     color: white;
     margin: 0px;
   }
 
-  .bonanzapng { /*nog niet af*/
+  .bonanzapng { /*plaatje voor boven de binary bonanza knop*/
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -93,10 +93,6 @@ ul { /*de achtergrond/bar van van het menu*/
   padding: 0;
   overflow: hidden;
   background-color: darkblue;
-}
-
-#id4503cd869e715 { /*zodat het weer achter het menu staat*/
-  z-index: -1;
 }
 
 li {
