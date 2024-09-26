@@ -56,6 +56,8 @@ body { /*achtergrond kleur voor mijn website*/
 
   .bonanzapng { /*nog niet af*/
     margin-top: 30px;
+    margin-left: 490px;
+    margin-bottom: 10px;
   }
 
 
@@ -70,11 +72,10 @@ body { /*achtergrond kleur voor mijn website*/
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
-    margin: 20px 480px;
+    margin: 20px 450px;
     cursor: pointer;
   }
 
-.bonanzapng
 
 
   .bbutton:hover {
