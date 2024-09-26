@@ -36,15 +36,13 @@ body { /*achtergrond kleur voor mijn website*/
 #binairevid {
   border: 10px solid darkblue;
   background-color: #2b2bc5;
-  margin-left: auto;
-  margin-right: auto;
+  align-items: center;
 }
 
 #binairevid2 {
   border: 10px solid darkblue;
   background-color: #2b2bc5;
-  margin-left: auto;
-  margin-right: auto;
+  align-items: center;
 }
 
   h2 { /*kleur voor h2*/
