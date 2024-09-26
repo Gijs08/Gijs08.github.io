@@ -35,12 +35,12 @@ body { /*achtergrond kleur voor mijn website*/
 
 video {
   border: 10px solid darkblue;
-  background-color: darkblue;
+  background-color: #2b2bc5;
 }
 
 iframe {
   border: 10px solid darkblue;
-  background-color: darkblue;
+  background-color: #2b2bc5;
 }
 
   h2 { /*kleur voor h2*/
