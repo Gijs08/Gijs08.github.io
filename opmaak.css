@@ -33,12 +33,12 @@ body { /*achtergrond kleur voor mijn website*/
   color: white;
 }
 
-video {
+#binairevid {
   border: 10px solid darkblue;
   background-color: #2b2bc5;
 }
 
-iframe {
+#binairevid2 {
   border: 10px solid darkblue;
   background-color: #2b2bc5;
 }
