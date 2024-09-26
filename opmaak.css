@@ -55,7 +55,10 @@ body { /*achtergrond kleur voor mijn website*/
   }
 
   .bonanzapng { /*nog niet af*/
-  float: center;
+  margin-left: 50%;
+  margin-right: 50%;
+  margin-top: 20px;
+  margin-bottom: 15px;
   width: 486px;
   height: 160px;
   }
