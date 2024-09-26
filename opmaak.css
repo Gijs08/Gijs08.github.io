@@ -23,6 +23,7 @@ body { /*achtergrond kleur voor mijn website*/
 }
 
 .bonanzabox {
+  margin-top: 20px;
   background-color: lightgrey;
   border: 15px solid green;
 }
