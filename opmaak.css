@@ -33,6 +33,9 @@ body { /*achtergrond kleur voor mijn website*/
   color: white;
 }
 
+video {
+  border: 10px solid darkblue;
+}
 
   h2 { /*kleur voor h2*/
     color: navy;
