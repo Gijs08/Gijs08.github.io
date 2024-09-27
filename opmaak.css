@@ -159,6 +159,17 @@ body { /*achtergrond kleur voor mijn website*/
     margin-bottom: 20px;
   }
 
+  #plaatje6 {
+    height: 300px;
+    width: 300px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: darkblue;
+    border-width: 10px;
+    border-style: ridge;
+  }
+
+
   .vidbit {
   margin-bottom: 10px;
   }
