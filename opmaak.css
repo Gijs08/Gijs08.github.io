@@ -109,23 +109,23 @@ body { /*achtergrond kleur voor mijn website*/
   }
 
 
-
+/*hieronder allemaal verschillende opmaak id's voor mijn pagina*/
   #plaatje {
     width: 420;
     height: 210;
     margin-left: 40px;
     margin-top: 10px;
     margin-bottom: 40px;
-    border: darkblue;
-    border-width: 10px;
-    border-style: ridge;
+    border: darkblue; /*rand om het plaatje heen*/
+    border-width: 10px; /*dikte van de rand*/
+    border-style: ridge; /*stijl van de rand*/
 
   }
   #plaatje2 {
     width: 500px; 
     height: 333px;
     display: block;
-    margin-left: auto;
+    margin-left: auto; /*display, margin-left en right zorgen ervoor dat het plaatje in het midden zit*/
     margin-right: auto;
     margin-top: 40px;
     margin-bottom: 40px;
