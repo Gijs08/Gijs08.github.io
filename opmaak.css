@@ -109,8 +109,8 @@ body { /*achtergrond kleur voor mijn website*/
   }
 
   #plaatje2 {
-    width: 500; 
-    height: 333;
+    width: 500px; 
+    height: 333px;
     display: block;
     margin-left: auto;
     margin-right: auto;
