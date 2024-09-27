@@ -108,6 +108,19 @@ body { /*achtergrond kleur voor mijn website*/
     cursor: pointer;
   }
 
+
+
+  #plaatje {
+    width: 420;
+    height: 210;
+    margin-left: 40px;
+    margin-top: 10px;
+    margin-bottom: 40px;
+    border: darkblue;
+    border-width: 10px;
+    border-style: ridge;
+
+  }
   #plaatje2 {
     width: 500px; 
     height: 333px;
@@ -119,17 +132,6 @@ body { /*achtergrond kleur voor mijn website*/
     border: darkblue;
     border-width: 10px;
     border-style: ridge; 
-  }
-
-  #plaatje {
-    width: 420;
-    height: 210;
-    margin-left: 40px;
-    margin-top: 20px;
-    margin-bottom: 40px;
-    border: darkblue;
-    border-width: 10px;
-    border-style: ridge;
   }
 
   #plaatje3 {
