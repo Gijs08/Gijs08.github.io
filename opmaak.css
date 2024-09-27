@@ -47,7 +47,6 @@ body { /*achtergrond kleur voor mijn website*/
   display: block;
   margin-left: auto;
   margin-right: auto;
-
 }
 
   h2 { /*kleur voor h2*/
@@ -77,6 +76,7 @@ body { /*achtergrond kleur voor mijn website*/
     background-color: #2b2bc5;
     color: white;
     margin: 0px;
+    border: rgb(1, 1, 86);
   }
 
   .bonanzapng { /*plaatje voor boven de binary bonanza knop*/
