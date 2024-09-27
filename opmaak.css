@@ -198,5 +198,5 @@ li a:hover {
 }
 
 .dropdown:hover .dropdown-content { /*wat voor soort display de dropdown heeft*/
-  display: block;
+  display: block
 }
