@@ -104,7 +104,25 @@ body { /*achtergrond kleur voor mijn website*/
     cursor: pointer;
   }
 
-
+  #binlink:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  #binlink:visited {
+    color: greenyellow;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  #binlink:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  #binlink:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
 
   .bbutton:hover {
     background-color: rgb(0, 0, 40); /*code voor de achtergrondkleur van als je over de tekst heen hovert*/
