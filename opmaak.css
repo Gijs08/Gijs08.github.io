@@ -108,9 +108,7 @@ body { /*achtergrond kleur voor mijn website*/
     cursor: pointer;
   }
 
-  #plaatje {
-    width: auto;
-    height: auto;
+  #plaatje2 {
     margin-left: auto;
     margin-right: auto;
     display: block;
@@ -118,7 +116,7 @@ body { /*achtergrond kleur voor mijn website*/
     margin-bottom: 40px;
   }
 
-#plaatje {
+ #plaatje {
     margin-left: 150%;
     margin-right: 150%;
     display: block;
