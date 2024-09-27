@@ -117,8 +117,8 @@ body { /*achtergrond kleur voor mijn website*/
   }
 
   #plaatje {
-    width: 150%;
-    height: 150%;
+    width: 420;
+    height: 210;
     margin-left: auto;
     margin-right: auto;
     display: block;
