@@ -143,13 +143,20 @@ body { /*achtergrond kleur voor mijn website*/
   }
 
   #plaatje4 {
-    height: 300px;
-    width: 300px;
+    height: 300;
+    width: 300;
     margin-top: 40px;
     margin-bottom: 20px;
     border: darkblue;
     border-width: 10px;
     border-style: ridge;
+  }
+
+  #plaatje5 {
+    height: 300px;
+    width: 300px;
+    margin-top: 40px;
+    margin-bottom: 20px;
   }
 
   .vidbit {
