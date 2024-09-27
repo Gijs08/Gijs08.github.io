@@ -142,6 +142,10 @@ body { /*achtergrond kleur voor mijn website*/
     margin-bottom: 40px;
   }
 
+  .vidbit {
+  margin-bottom: 10px;
+  }
+
   #binlink:link {
     color: green;
     background-color: transparent;
