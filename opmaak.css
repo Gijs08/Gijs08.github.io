@@ -178,33 +178,32 @@ body { /*achtergrond kleur voor mijn website*/
     border-style: ridge;
   }
 
-
   .vidbit {
   margin-bottom: 10px;
   }
 
-  #binlink:link {
+  #binlink:link { /*kleur van de link*/
     color: green;
     background-color: transparent;
     text-decoration: none;
   }
-  #binlink:visited {
+  #binlink:visited { /*kleur van de link als je hem al bezocht hebt*/
     color: greenyellow;
     background-color: transparent;
     text-decoration: none;
   }
-  #binlink:hover {
+  #binlink:hover { /*kleur van de link als je erover heen hovert*/
     color: red;
     background-color: transparent;
     text-decoration: underline;
   }
-  #binlink:active {
+  #binlink:active { /*kleur van de link terwijl je erop klikt*/
     color: yellow;
     background-color: transparent;
     text-decoration: underline;
   }
 
-  .bbutton:hover {
+  .bbutton:hover { 
     background-color: rgb(0, 0, 40); /*code voor de achtergrondkleur van als je over de tekst heen hovert*/
   }
 
@@ -261,7 +260,7 @@ li a:hover {
   background-color: rgb(0, 0, 111);
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-  z-index: 1;
+  z-index: 1; /*code zodat de dropdown bovenaan de website komt*/
 }
 
 .dropdown-content a { /*opmaak voor de tekst van de inhoud dropdown*/
