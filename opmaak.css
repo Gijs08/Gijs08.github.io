@@ -73,7 +73,7 @@ body { /*achtergrond kleur voor mijn website*/
 
   .paragraaf { /*opmaak voor bijna alle paragraaf tags in mijn website*/
     display: block;
-    background-color: #2b2bc5;
+    background-color: green;
     color: white;
     margin: 0px;
   }
